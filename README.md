@@ -2,7 +2,7 @@
 
 Welcome to Introduction to **Statistical Analysis with R!**
 
-This course provides students with essential skills in analyzing data, interpreting results, and communicating statistical findings using the R programming language. This course has 4 large programming assignments (2 focused on R, 2 focused on EDA), with a final take-home comprehensive assignment integrating the full data workflow.
+This course provided me with essential skills in analyzing data, interpreting results, and communicating statistical findings using the R programming language. This course has 4 large programming assignments (2 focused on R, 2 focused on EDA), with a final take-home comprehensive assignment integrating the full data workflow.
 
 ---
 
