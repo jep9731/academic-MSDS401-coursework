@@ -35,7 +35,7 @@ This course provides students with essential skills in analyzing data, interpret
 
 Each large assignment will have their own folder with a `README.md` file that will go into more detail about the assignment along with instructions on how to run each program. Additionally, the required data will be located in each folder under a `data/` subfolder.
 
---
+---
 
 ## Contact Me
 
