@@ -4,7 +4,7 @@ Welcome to Introduction to **Statistical Analysis with R!**
 
 This course provides students with essential skills in analyzing data, interpreting results, and communicating statistical findings using the R programming language. This course has 4 large programming assignments (2 focused on R, 2 focused on EDA), with a final take-home comprehensive assignment integrating the full data workflow.
 
---
+---
 
 **🎯 Course Learning Outcomes:**
 
@@ -17,7 +17,7 @@ This course provides students with essential skills in analyzing data, interpret
 * Perform correlation analysis and build regression models.
 * Explore contingency tables, chi-square testing, and bootstrap methods.
 
---
+---
 
 **🗂 Topics Covered:**
 
@@ -31,7 +31,7 @@ This course provides students with essential skills in analyzing data, interpret
 * Contingency Tables & Chi-Square Tests
 * Bootstrapping & Contemporary Extensions
 
---
+---
 
 Each large assignment will have their own folder with a `README.md` file that will go into more detail about the assignment along with instructions on how to run each program. Additionally, the required data will be located in each folder under a `data/` subfolder.
 
