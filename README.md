@@ -8,7 +8,8 @@ This course provides students with essential skills in analyzing data, interpret
 
 **🎯 Course Learning Outcomes:**
 
-* By the end of this course, students will be able to:
+By the end of this course, I will be able to:
+
 * Evaluate and interpret statistical information in business and research contexts.
 * Apply descriptive and inferential statistical techniques.
 * Use R for data analysis, visualization, and automated reporting.
