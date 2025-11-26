@@ -8,7 +8,7 @@ This course provided me with essential skills in analyzing data, interpreting re
 
 **🎯 Course Learning Outcomes:**
 
-By the end of this course, I will be able to:
+By the end of this course, I am be able to:
 
 * Evaluate and interpret statistical information in business and research contexts.
 * Apply descriptive and inferential statistical techniques.
