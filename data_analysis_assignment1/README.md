@@ -25,7 +25,7 @@ In this first EDA assignment, I will use graphical and numerical techniques to e
 
 ## Data
 
-For this assignment, you will need to download the `abalones.csv` in the `data/` folder, and store it alongside the EDA markdown script. 
+For this assignment, you will need to download the `abalones.csv` and store it alongside the EDA markdown script. 
 
 The Abalone is common name for any group of small to very large sea snails, commonly found along the coasts across the world, and used as delicacy in cusinies and it's leftover shell is fashioned into jewelery due to it's iridescent luster. Due to it's demand and economic value it's often harvested in farms, and as such the need to predict the age of abalone from physical measurements. Traditional approach to determine it's age is by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task.
 
