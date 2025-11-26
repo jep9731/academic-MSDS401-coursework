@@ -21,6 +21,10 @@ This assignment taught me:
 3. Visualize variable distributions
 4. Write functions to compute basic probabilities
 
+## Run:
+
+To run the file, download the `Pasaye_Joshua_R_Assignment_1.Rmd` and run the script. No other data is neccessary.
+
 ---
 
 ## Contact Me
